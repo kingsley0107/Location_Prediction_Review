@@ -1,6 +1,17 @@
 # Limits of Predictability in Human Mobility
 
-> Under construction... 04/22/2024
+> Reviewed 04/22/2024
+
+# Table of Contents
+
+1. [Research Problem](#research-problem)
+2. [Research Method](#research-method)
+   - [Entropy Measurement](#entropy-measurement)
+   - [Radius of Gyration](#radius-of-gyration)
+   - [Π: Measurement of Predictability](#π-measurement-of-predictability)
+3. [Findings](#findings)
+4. [Interesting Points](#interesting-points)
+5. [Discussion](#discussion)
 
 ## Research Problem
 
