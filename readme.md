@@ -16,6 +16,6 @@ The repo will divide these works into three parts:
 
 ### Topics
 
-| Paper                                                                                    | Journal & Year | Findings | Main Method |
-| ---------------------------------------------------------------------------------------- | -------------- | -------- | ----------- |
-| [Limits of Predictability in Human Mobility](./topics/traveler_predictability/readme.md) | CEUS, 2022     | -        | -           |
+| Paper                                                                                                                                                                               | Journal & Year | Findings | Main Method |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------- | ----------- |
+| [Understanding the movement predictability of international travelers using a nationwide mobile phone dataset collected in South Korea](./topics/traveler_predictability/readme.md) | CEUS, 2022     | -        | -           |
