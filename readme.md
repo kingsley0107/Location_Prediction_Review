@@ -10,7 +10,7 @@ The repo will divide these works into three parts:
 
 ### Assumptions/ Theory/ Findings
 
-| Paper                                                                             | Journal & Year | Findings | Main Method |
-| --------------------------------------------------------------------------------- | -------------- | -------- | ----------- |
-| [Limits of Predictability in Human Mobility](./findings/limits_entropy/readme.md) | Science, 2010  | 1.       | Entorpy / Π |
-| Paragraph                                                                         | Text           |
+| Paper                                                                                   | Journal & Year | Findings | Main Method |
+| --------------------------------------------------------------------------------------- | -------------- | -------- | ----------- |
+| [Limits of Predictability in Human Mobility](./findings/limits_entropy/Limits_Pred.pdf) | Science, 2010  | 1.       | Entorpy / Π |
+| Paragraph                                                                               | Text           |
