@@ -16,6 +16,12 @@ The repo will divide these works into three parts:
 
 ### Topics
 
-| Paper                                                                                                                                                                               | Journal & Year | Findings | Main Method |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------- | ----------- |
-| [Understanding the movement predictability of international travelers using a nationwide mobile phone dataset collected in South Korea](./topics/traveler_predictability/readme.md) | CEUS, 2022     | -        | -           |
+| Paper                                                                                                                                                                               | Journal & Year | Topic                     | Findings | Main Method |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------- | -------- | ----------- |
+| [Understanding the movement predictability of international travelers using a nationwide mobile phone dataset collected in South Korea](./topics/traveler_predictability/readme.md) | CEUS, 2022     | Travelers' predictability | -        | -           |
+
+### Models
+
+| Paper                                                                                                                                       | Journal & Year | Findings | Innovation        | Main Method |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------- | ----------------- | ----------- |
+| [Context-aware multi-head self-attentional neural network model for next location prediction](./models/context-aware_mul_attent//readme.md) | TRC, 2023      | -        | 1. Adding user ID | -           |
