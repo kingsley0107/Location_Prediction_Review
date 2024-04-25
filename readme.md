@@ -16,9 +16,9 @@ The repo will divide these works into three parts:
 
 ### Topics
 
-| Paper                                                                                                                                                                               | Journal & Year | Topic                     | Findings | Main Method |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------- | -------- | ----------- |
-| [Understanding the movement predictability of international travelers using a nationwide mobile phone dataset collected in South Korea](./topics/traveler_predictability/readme.md) | CEUS, 2022     | Travelers' predictability | -        | -           |
+| Paper                                                                                                                                                                                                   | Journal & Year | Topic                     | Findings                                                  | Main Method                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------- | --------------------------------------------------------- | --------------------------- |
+| [Understanding the movement predictability of international travelers using a nationwide mobile phone dataset collected in South Korea](./topics/traveler_predictability/travelers’_predictability.pdf) | CEUS, 2022     | Travelers' predictability | Despite travelling, tourist movement is still predictable | 1-order Markov Chain / LSTM |
 
 ### Models
 

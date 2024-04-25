@@ -1,3 +1,5 @@
 # Understanding the movement predictability of international travelers using a nationwide mobile phone dataset collected in South Korea
 
-> Under construction 04/23/2024
+> reviewed 04/25/2024
+
+[content](./travelers’_predictability.pdf)
