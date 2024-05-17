@@ -23,6 +23,7 @@ The repo will divide these works into three parts:
 
 ### Models
 
-| Paper                                                                                                                                       | Journal & Year | Findings | Innovation        | Main Method |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------- | ----------------- | ----------- |
-| [Context-aware multi-head self-attentional neural network model for next location prediction](./models/context-aware_mul_attent//readme.md) | TRC, 2023      | -        | 1. Adding user ID | -           |
+| Paper                                                                                                                                       | Journal & Year                                               | Findings | Innovation                               | Main Method |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | -------- | ---------------------------------------- | ----------- |
+| [Context-aware multi-head self-attentional neural network model for next location prediction](./models/context-aware_mul_attent//readme.md) | TRC, 2023                                                    | -        | 1. Adding user ID                        | -           |
+| [DeepApp: Predicting Personalized smartphone app usage via context-aware multi-task Learning](./models/DeepApp/readme.md)                   | ACM Transactions on Intelligent Systems and Technology, 2020 | SOTA     | Multi-task Learning, others as fake task | Multi-task  |
